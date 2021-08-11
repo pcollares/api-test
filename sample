@@ -1,0 +1,6 @@
+GET people/1
+GET films/1
+GET starships/9
+GET vehicles/4
+GET species/3
+GET planets/1
